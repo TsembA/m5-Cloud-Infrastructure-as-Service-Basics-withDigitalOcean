@@ -1,4 +1,4 @@
-### 5 Cloud & Infrastructure as a Service Basics with DigitalOcean
+### 5. Cloud & Infrastructure as a Service Basics with DigitalOcean
 
 DigitalOcean is a cloud provider that falls under the category of Infrastructure as a Service (IaaS). It enables users to deploy virtual machines, databases, load balancers, and other cloud resources with ease.
 
